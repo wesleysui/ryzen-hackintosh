@@ -3,16 +3,14 @@
 ## Specification
 | **Component** | **Model** |
 | ------------- | --------- |
-| CPU | AMD Ryzen 7 1700 @ 3.8GHz |
-| Motherboard | ASUS B350 Plus |
-| RAM | 16GB (2 x 8GB) Corsair Vengeance @ 3000MHz |
-| Audio Chipset | ALC-887 |
-| GPU | MSI RX Vega 64 |
-| WiFi & Bluetooth | Broadcom BCM94331CD |
-| OS Disk (NVMe) | Samsung 960 Evo 250GB |
+| CPU | AMD Ryzen 7 3700X @ 3.6GHz |
+| Motherboard | ASUS ROG STRIX B450-I Gaming |
+| RAM | 32GB (2 x 16GB) Corsair Vengeance @ 3200MHz |
+| GPU | SAPPHIRE Nitro+ 5700 XT 8G GDDR6 |
+| OS Disk (NVMe) | ADATA XPG SX8200 Pro M.2 1TB |
 
-**macOS version**: 10.15.5 (19F101)  
-**OpenCore version**: 0.5.9  
+**macOS version**: 11.1  
+**OpenCore version**: 0.6.4  
 
 ## Drivers & Kexts
  - [[Bootloader] OpenCore](https://github.com/acidanthera/OpenCorePkg)
@@ -51,4 +49,3 @@
 
 If you can't solve your problems by yourself, feel free to ask on [**AMD-OSX Discord**](https://discord.gg/EfCYAJW) or [**Forum**](https://forum.amd-osx.com)  
 
-![Screenshot](/screenshot.png?raw=true)
